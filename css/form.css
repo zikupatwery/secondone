@@ -1,0 +1,17 @@
+h1{
+    color: rgb(15, 11, 235);
+}
+.wrapper{
+    width: 50%;
+    margin:0 auto;
+    border:5px solid rgb(184, 12, 21);
+}
+label{
+font-size: 30px;
+color: rgb(187, 17, 17);
+}
+
+.first_name,.last_name, .date_of_birth, .email, .password{
+    width: 90%;
+    padding: 10px 08px 05px 06px;
+}
